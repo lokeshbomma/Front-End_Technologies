@@ -1,0 +1,26 @@
+body{
+    padding:50px;
+}
+.custom-container{
+    color: red;
+    background-color: rgb(49, 223, 223);
+    border: 5px dashed green;
+}
+.custom-row{
+    border: 3px solid yellow;
+}
+.custom-col{
+    border: 3px solid darkcyan;
+}
+/* td{
+    background-color: aqua;
+    color: blueviolet;
+} */
+/* td:nth-child(2n){
+    background-color: yellow;
+    color: aqua;
+} */
+/* th{
+    background-color: brown;
+    color:red;
+} */
